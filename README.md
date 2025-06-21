@@ -26,7 +26,7 @@ All relationships are established with a one-to-many cardinality where applicabl
 ### 📈 Key Visuals
 
 - **Sales Performance Report**:
-  - Bar chart comparing sales by Salesperson.
+  - Table comparing sales by Salesperson.
   - Sales per Box KPI.
   - Breakdown by Category, Team, and Geography.
 
