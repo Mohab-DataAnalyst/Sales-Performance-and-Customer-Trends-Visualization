@@ -50,7 +50,12 @@ All relationships are established with a one-to-many cardinality where applicabl
 ![image alt](https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/sales%20report.PNG?raw=true)
 ![image alt](https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/customer%20&%20sales%20trends.PNG?raw=true)
 
-<img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/Sales%20Data%20Model.PNG?raw=true" width="300"/> <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/sales%20report.PNG?raw=true" width="300"/> <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/customer%20&%20sales%20trends.PNG?raw=true" width="300"/>
+<p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/Sales%20Data%20Model.PNG?raw=true" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/sales%20report.PNG?raw=true" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/customer%20&%20sales%20trends.PNG?raw=true" width="800" height="500"/>
+</p>
+
 
 ---
 
