@@ -46,10 +46,9 @@ All relationships are established with a one-to-many cardinality where applicabl
 ---
 
 ## 🖥️ Dashboard Snapshots
-![Dashboard Preview](Sales%20Data%20Model.png)
-![Dashboard Preview](sales%20report.png)
-![Dashboard Preview](customer%20&%20sales%20trends.png)
-
+![image alt](https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/Sales%20Data%20Model.PNG?raw=true)
+![image alt](https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/sales%20report.PNG?raw=true)
+![image alt](https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/customer%20&%20sales%20trends.PNG?raw=true)
 ---
 
 ## 📌 Insights Extracted
