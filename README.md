@@ -46,7 +46,9 @@ All relationships are established with a one-to-many cardinality where applicabl
 ---
 
 ## 🖥️ Dashboard Snapshots
-![Dashboard Preview](Netflix%20Dashboard.png)
+![Dashboard Preview](Sales%20Data%20Model.png)
+![Dashboard Preview](sales%20report.png)
+![Dashboard Preview](customer%20&%20sales%20trends.png)
 
 ---
 
